@@ -1,0 +1,153 @@
+# =============================================================================
+# FICHIERS LOCAUX ET DONNÉES UTILISATEUR
+# =============================================================================
+
+# Fichier source local (à recréer par l'utilisateur)
+long_texte.txt
+
+# Dossier de sortie généré par le script
+parties/
+
+# Fichiers de test temporaires
+*.test.txt
+test_*.txt
+
+# =============================================================================
+# PYTHON
+# =============================================================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# =============================================================================
+# SYSTÈMES D'EXPLOITATION
+# =============================================================================
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+*~
+.directory
+
+# =============================================================================
+# ÉDITEURS ET OUTILS
+# =============================================================================
+
+# Nano (éditeur en ligne de commande)
+*.swp
+*.swo
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Logs
+*.log
+
+# =============================================================================
+# AUTRES
+# =============================================================================
+
+# Environnement variables
+.env
+.env.local
+
+# Base de données locales
+*.db
+*.sqlite
+*.sqlite3
